@@ -9,21 +9,10 @@
 **A work-in-progress 2D battle royale game inspired by Fortnite, fully coded in Python. 💥
 Every version improves mechanics, graphics, and gameplay — aiming for epicness!** ✅
 
-# 
-#  project progress ♾️
-# 
-
-- Very simplified AI
-- Green map in the background
-- You can't take damage
--fire.
 
 
-#  ROADMAP 
-
-
-🚀 **Current Version**: v0.1 (prototype)  
- 
+🚀 **Current Version**: v0.2 
+❌ **Old Version**: v0.1
 
 
 #  TECH STACK 
