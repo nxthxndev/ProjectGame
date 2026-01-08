@@ -11,7 +11,8 @@ Every version improves mechanics, graphics, and gameplay — aiming for epicness
 
 
 
-- 🚀 **Current Version**: v0.2 
+- 🚀 **Current Version**: v0.3
+- ❌ **Old Version**: v0.2
 - ❌ **Old Version**: v0.1
 
 
